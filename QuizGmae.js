@@ -16,6 +16,10 @@ var questions = [
     {
         question: 'Which HERO I like the most?',
         answer: 'iron man'
+    },
+    {
+        question: "What is my age",
+        answer: "17"
     }
 ]
 
