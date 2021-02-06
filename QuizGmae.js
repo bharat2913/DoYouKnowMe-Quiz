@@ -30,6 +30,7 @@ function play(question, answer) {
         score = score + 1;
     } else {
         console.log('Wrong')
+        console.log("Correct Answer : " + answer)
     }
 
     console.log('Current Score = ' + score);
