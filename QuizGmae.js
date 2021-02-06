@@ -19,7 +19,7 @@ var questions = [
     },
     {
         question: "What is my age",
-        answer: "17"
+        answer: "18"
     }
 ]
 
